@@ -95,7 +95,7 @@ div.campo > input {
     border: 0px;
     border-radius:7px;
     padding: 18px;
-    transform: translateY(-12.4px);
+    transform: translateY(-12.8px);
 }
 
 div.campo > input:focus {
